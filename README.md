@@ -1,3 +1,6 @@
-<h1 align="center">Hi 👋, I'm Daniya Siddiqui</h1>
-- 🌱 I’m currently learning **Java**
-- 
+<h2> Greetings! My name is Daniya Siddiqui</h2>
+<ul>
+	<li>Currently learning TypeScript</li>
+	<li>Intrested in Cybersecurity, Game Dev and Web Dev</li>
+	<li>Current occupation: University Student</li>
+</ul>
