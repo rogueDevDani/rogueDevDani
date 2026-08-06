@@ -1,4 +1,4 @@
-<h1 align="center">xyz</h1>
+<h1 align="center">Greetings...Daniya Speaking...</h1>
 <h3 align="center">✦ developer of things, breaker of things, occasionally on purpose ✦</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### about
+### About
 
 A mixed-bag developer with no single specialty and no interest in picking one. I build what interests me, and what interests me changes with the weather.
 
@@ -23,7 +23,7 @@ A mixed-bag developer with no single specialty and no interest in picking one. I
 
 ---
 
-### tech
+### Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=8A2BE2" />
@@ -35,7 +35,7 @@ A mixed-bag developer with no single specialty and no interest in picking one. I
 
 ---
 
-### projects
+### Projects
 
 <table>
   <tr>
