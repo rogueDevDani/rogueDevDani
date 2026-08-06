@@ -42,7 +42,7 @@ A mixed-bag developer with no single specialty and no interest in picking one. I
     <td width="50%">
       <h4>ranked to-do list</h4>
       <p>A task manager that ranks your chores by how much you're dreading them. Clear the list before it clears you.</p>
-      <a href="https://github.com/rogueDevDani/naruto-todo-list"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a>
+      <a href="https://naruto-to-do-intw.vercel.app"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a>
     </td>
     <td width="50%">
       <h4>score four</h4>
