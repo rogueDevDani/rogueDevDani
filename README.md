@@ -4,7 +4,7 @@
 
 ### About
 
-A mixed-bag developer with no single specialty and a love to explore all areas. I build what interests me, and what interests me changes with the weather.
+A mixed-bag student developer with no single specialty (currently) and a love to explore all areas. I build what interests me, and what interests me changes with the weather.
 
 - writes code mostly after dark, for no particular reason
 - comfortable across the stack — front end, back end, doesn't matter
