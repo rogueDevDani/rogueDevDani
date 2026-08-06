@@ -1,4 +1,4 @@
-<h1 align="center">Greetings...Daniya Logging in...</h1>
+<h1 align="center">Greetings...X Logging in...</h1>
 <h3 align="center">✦ developer of things, breaker of things, occasionally on purpose ✦</h3>
 
 <p align="center">
