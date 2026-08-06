@@ -9,7 +9,7 @@ A mixed-bag student developer with no single specialty (currently) and a love to
 - writes code mostly after dark, for no particular reason
 - comfortable across the stack — front end, back end, doesn't matter
 - debugging is just talking to the void until it talks back
-- currently working with Java, Python, HTML/CSS, and Angular
+- currently working on a personal project
 - current interest --> JavaScript and Advanced Python
   
 ---
