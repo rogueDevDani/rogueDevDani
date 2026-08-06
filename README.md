@@ -40,7 +40,7 @@ A mixed-bag developer with no single specialty and no interest in picking one. I
 
 <table> <tr> <td width="50%"> <h4>A Naruto Themed ToDo List</h4> 
   <p>A task manager that ranks your chores by how much you're dreading them. Clear the list and defeat your enemies before they clear you.</p> <a href="https://github.com/rogueDevDani/Naruto_To_Do"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a> </td>
-  <td width="50%"> <h4>score four</h4> <p>A Connect-Four-style game. Simple rules, ruthless matches.</p> <a href="https://github.com/charliedunsford/CappuccinoScoreFour"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a> </td> </tr> </table>
+  <td width="50%"> <h4>Score four</h4> <p>A Connect-Four-style game. Simple rules, ruthless matches.</p> <a href="https://github.com/charliedunsford/CappuccinoScoreFour"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a> </td> </tr> </table>
 
 ---
 
