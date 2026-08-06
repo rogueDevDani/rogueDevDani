@@ -44,14 +44,7 @@ A mixed-bag developer with no single specialty and no interest in picking one. I
 
 ### Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogueDevDani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="rogueDevDani's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogueDevDani&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rogueDevDani&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=rogueDevDani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="rogueDevDani's GitHub stats" height="165"/> <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=rogueDevDani&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=rogueDevDani&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /> </p>
 
 ---
 
