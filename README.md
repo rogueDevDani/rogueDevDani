@@ -1,4 +1,4 @@
-<h1 align="center">Greetings...Daniya Speaking...</h1>
+<h1 align="center">Greetings...Daniya Logging in...</h1>
 <h3 align="center">✦ developer of things, breaker of things, occasionally on purpose ✦</h3>
 
 <p align="center">
@@ -20,7 +20,8 @@ A mixed-bag developer with no single specialty and no interest in picking one. I
 - comfortable across the stack — front end, back end, doesn't matter
 - debugging is just talking to the void until it talks back
 - currently working with Java, Python, HTML/CSS, and Angular
-
+- current interest --> JavaScript and Advanced Python
+  
 ---
 
 ### Tech
@@ -37,11 +38,13 @@ A mixed-bag developer with no single specialty and no interest in picking one. I
 
 ### Projects
 
-<table> <tr> <td width="50%"> <h4>ranked to-do list</h4> <p>A task manager that ranks your chores by how much you're dreading them. Clear the list before it clears you.</p> <a href="https://github.com/rogueDevDani/Naruto_To_Do"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a> </td> <td width="50%"> <h4>score four</h4> <p>A Connect-Four-style game. Simple rules, quietly ruthless matches.</p> <a href="https://github.com/charliedunsford/CappuccinoScoreFour"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a> </td> </tr> </table>
+<table> <tr> <td width="50%"> <h4>A Naruto Themed ToDo List</h4> 
+  <p>A task manager that ranks your chores by how much you're dreading them. Clear the list and defeat your enemies before they clear you.</p> <a href="https://github.com/rogueDevDani/Naruto_To_Do"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a> </td>
+  <td width="50%"> <h4>score four</h4> <p>A Connect-Four-style game. Simple rules, ruthless matches.</p> <a href="https://github.com/charliedunsford/CappuccinoScoreFour"><img src="https://img.shields.io/badge/repo-000000?style=flat-square&logo=github&logoColor=8A2BE2" /></a> </td> </tr> </table>
 
 ---
 
-### stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rogueDevDani&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="rogueDevDani's GitHub stats" height="165"/>
