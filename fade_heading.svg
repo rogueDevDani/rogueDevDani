@@ -1,5 +1,0 @@
-<svg viewBox="0 0 760 46" xmlns="http://www.w3.org/2000/svg">
-<style>text { font-family: Fira Code, monospace; font-size: 26px; font-weight: 600; fill: #8A2BE2; }</style>
-<text x="380.0" y="32.0" text-anchor="middle" opacity="0">> connection established with Daniya...<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.060;0.440;0.500;1" dur="14s" begin="0.0s" repeatCount="indefinite"/></text>
-<text x="380.0" y="32.0" text-anchor="middle" opacity="0">greetings, wanderer.<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.060;0.440;0.500;1" dur="14s" begin="7.0s" repeatCount="indefinite"/></text>
-</svg>
