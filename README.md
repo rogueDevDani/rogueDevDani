@@ -10,7 +10,7 @@ A mixed-bag student developer with no single specialty (currently) and a love to
 - comfortable across the stack — front end, back end, doesn't matter
 - debugging is just talking to the void until it talks back
 - currently working on a personal project
-- current interest --> JavaScript and Advanced Python
+- current interests --> AWS and Advanced Python
   
 ---
 
